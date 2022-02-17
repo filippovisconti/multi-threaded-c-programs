@@ -1,4 +1,4 @@
-#MultiThreadedCPrograms
+# MultiThreadedCPrograms
 
 A collection of multithreaded c programs. Each folder has its own Makefile and semi-automatic checker included.
 Create PRs if you find bugs.

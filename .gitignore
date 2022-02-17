@@ -1,0 +1,16 @@
+# Object files
+*.o
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Executables
+*.exe
+*.out
+
+# Debug files
+*.dSYM/
+
+*.bin
+.vscode
